@@ -15,10 +15,10 @@ Then, you can include this module by importing it in your Python scripts:
 You can use this package for making requests to Weaviate instances. Initiate connection to Weaviate by calling 
 
 ``` python
-to_weaviate = weaviate_pyclient.ToWeaviate(weaviate_config) 
+to_weaviate = weaviate_pyclient.ToWeaviate(config) 
 ```
 
-where ` weaviate_config ` contains the correct credentials and location of your instance in the following format: 
+where ` config ` contains the correct credentials and location of your instance in the following format: 
 
 ``` json
 {
