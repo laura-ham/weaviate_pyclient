@@ -32,7 +32,7 @@ where ` weaviate_config ` contains the correct credentials and location of your 
 Then, the variable `to_weaviate` can be used for requests.
 
 
-###### *class* weaviate_pyclient.ToWeaviate(config)
+### *class* weaviate_pyclient.ToWeaviate(config)
 
 **get_cref_schema**(*uuid*)
 
