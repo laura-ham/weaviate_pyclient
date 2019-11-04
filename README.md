@@ -1,5 +1,5 @@
 # THIS REPOSITORY IS ARCHIVED
-**For a full functioning python client for Weaviate, look here: https://github.com/semi-technologies/weaviate-python-client*
+**For a full functioning python client for Weaviate, look here: https://github.com/semi-technologies/weaviate-python-client.**
 
 # weaviate_pyclient
 
