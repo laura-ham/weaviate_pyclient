@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS ARCHIVED
+**For a full functioning python client for Weaviate, look here: https://github.com/semi-technologies/weaviate-python-client*
+
 # weaviate_pyclient
 
 This package is a python client library, which can be used for efficient requests on your Weaviate instance.
